@@ -19,7 +19,12 @@ my projects listed above!
 ## 😄 Pronouns:
 he/him
 ## ⚡ Fun fact:
-I am protecting my accounts and personal info using https://proton.me!
+I am protecting my accounts and personal info using https://proton.me!\
+
+# More Info: 
+**Find more info about me and my projects** at https://joshuewok-minecraft-fun-owner.github.io/joshuewok-minecraft-fun-owner *!
+
+* Official Coding & Project Portfolio unless otherwise stated.
 <!--
 **Joshuewok-Minecraft-fun-Owner/Joshuewok-Minecraft-fun-Owner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
